@@ -8,7 +8,7 @@ O controlador responsável pelo tratamento dos dados pessoais é o Coffee Codex,
 
 Contato para assuntos de privacidade e proteção de dados:
 
-E-mail: coffeesinn@gmail.com
+E-mail: contato@cafesinn.com.br
 
 Esse canal também funciona como contato do Encarregado pelo Tratamento de Dados (LGPD).
 
@@ -142,4 +142,5 @@ Esta Política pode ser atualizada periodicamente. A versão mais recente estar�
 12. Contato
 Dúvidas ou solicitações relacionadas à privacidade:
 
-E-mail: coffeesinn@gmail.com
+E-mail: contato@cafesinn.com.br
+
