@@ -119,7 +119,7 @@ Restringir ou se opor ao tratamento.
 
 Retirar o consentimento a qualquer momento.
 
-Exclusão de Conta: Você pode solicitar a exclusão da sua conta e dados diretamente nas configurações do aplicativo. Caso não consiga acessar o aplicativo, você pode solicitar a exclusão completa da sua conta enviando um e-mail para coffeesinn@gmail.com com o assunto "Exclusão de Conta".
+Exclusão de Conta: Você pode solicitar a exclusão da sua conta e dados diretamente nas configurações do aplicativo. Caso não consiga acessar o aplicativo, você pode solicitar a exclusão completa da sua conta enviando um e-mail para contato@cafesinn.com.br com o assunto "Exclusão de Conta".
 
 Usuários no EEE também podem apresentar reclamação à autoridade de proteção de dados local. No Brasil, o titular pode recorrer à Autoridade Nacional de Proteção de Dados (ANPD).
 
@@ -143,4 +143,5 @@ Esta Política pode ser atualizada periodicamente. A versão mais recente estar�
 Dúvidas ou solicitações relacionadas à privacidade:
 
 E-mail: contato@cafesinn.com.br
+
 
